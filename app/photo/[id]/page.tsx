@@ -14,6 +14,12 @@ type Props = {
   params: Promise<{ id: string }>;
 };
 
+export function generateStaticParams() {
+  return photos.map((photo) => ({
+    id: String(photo.id),
+  }));
+}
+
 export default async function PhotoDetailPage({ params }: Props) {
   const { id } = await params;
   const photo = photos.find((p) => p.id === Number(id)) || null;
