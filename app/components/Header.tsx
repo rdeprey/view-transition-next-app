@@ -12,6 +12,7 @@ export default function Header() {
           <Link href='/'>Home</Link>
           <Link href='/gallery'>Route transitions</Link>
           <Link href='/manual'>Manual API</Link>
+          <Link href='/mpa'>MPA transitions</Link>
         </nav>
       </header>
     </ViewTransition>
