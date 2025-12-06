@@ -11,7 +11,7 @@ export default function MPAPage() {
       </p>
 
       <div className='mpa-cards'>
-        <a href='/mpa/about' className='mpa-card'>
+        <a href='/view-transition-next-app/mpa/about' className='mpa-card'>
           <div
             className='mpa-card-image mpa-card-image--about'
             style={{ viewTransitionName: 'hero-image' }}
@@ -22,7 +22,7 @@ export default function MPAPage() {
           </div>
         </a>
 
-        <a href='/mpa/features' className='mpa-card'>
+        <a href='/view-transition-next-app/mpa/features' className='mpa-card'>
           <div
             className='mpa-card-image mpa-card-image--features'
             style={{ viewTransitionName: 'features-image' }}

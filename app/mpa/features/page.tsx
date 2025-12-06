@@ -1,7 +1,7 @@
 export default function MPAFeaturesPage() {
   return (
     <div className='mpa-detail'>
-      <a href='/mpa' className='back'>
+      <a href='/view-transition-next-app/mpa' className='back'>
         <span aria-hidden='true'>←</span> Back to MPA demo
       </a>
 
