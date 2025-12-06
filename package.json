@@ -8,14 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "15.3.0",
-    "react": "19.0.0-rc-de68d2f4-20241204",
-    "react-dom": "19.0.0-rc-de68d2f4-20241204"
+    "next": "16.0.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@types/node": "24.10.1",
-    "@types/react": "^18.2.0",
-    "@types/react-dom": "^18.2.0",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
     "typescript": "^5.6.0"
   }
 }

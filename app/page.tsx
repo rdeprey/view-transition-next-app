@@ -32,7 +32,7 @@ export default function Home() {
         </ul>
         <div className="pill-row">
           <span className="pill">React 19 RC</span>
-          <span className="pill">Next.js 15 pages router</span>
+          <span className="pill">Next.js 15 app router</span>
           <span className="pill">View Transition API</span>
         </div>
       </section>
