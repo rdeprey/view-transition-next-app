@@ -23,3 +23,7 @@ Then open `http://localhost:3000`:
 - `/photo/[id]` — detail page for a given photo
 - `/manual` — manual View Transition API example
 - `/mpa` — cross-document view transitions (MPA style with regular links)
+
+## Blog post
+
+For a detailed walkthrough of how this app works, see [View Transition API + React 19 + Next.js 16](https://rebeccamdeprey.com/blog/view-transition-api).
